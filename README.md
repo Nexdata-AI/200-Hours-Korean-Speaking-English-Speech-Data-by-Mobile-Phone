@@ -4,7 +4,7 @@
 ## Description
 The product contains the speech data recorded by 400 native Korean speakers, with roughly equal gender distribution. The corpus covers a wide domain with rich content of generic category, human-machine interaction category, in-car category, smart home category, etc. The corpus text was manually checked to ensure the high accuracy.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1041?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1041?source=Github
 
 
 ## Format
